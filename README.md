@@ -6,7 +6,7 @@ The solution contains code for the last stage and the test file (all coding prob
 
 ---
 # PYTHON
-🐍 Total: 104, 👷🏼‍♂️ In process: 93, 🐱‍👤 Done: 11
+🐍 Total: 104, 👷🏼‍♂️ In process: 92, 🐱‍👤 Done: 12
 
 Note that these projects are from Python paths and some of them may not be Python projects per se (e.g., Gitman).
 
@@ -49,7 +49,7 @@ Note that these projects are from Python paths and some of them may not be Pytho
 32) 👷🏼‍♂️ Regex Engine (Python) - https://hyperskill.org/projects/114
 33) 👷🏼‍♂️ Easy Rider Bus Company - https://hyperskill.org/projects/128
 34) 👷🏼‍♂️ Text Generator - https://hyperskill.org/projects/134
-35) 👷🏼‍♂️ Duskers - https://hyperskill.org/projects/136
+35) 🐱‍👤 [Duskers](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/Duskers) - https://hyperskill.org/projects/136
 36) 👷🏼‍♂️ Knight's Tour Puzzle - https://hyperskill.org/projects/141
 37) 👷🏼‍♂️ Data Analysis for Hospitals - https://hyperskill.org/projects/152
 38) 👷🏼‍♂️ Readability Score (Python) - https://hyperskill.org/projects/155
