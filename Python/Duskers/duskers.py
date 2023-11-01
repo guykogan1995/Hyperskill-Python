@@ -350,6 +350,7 @@ def robo_gameLogic():
             if command6 == "1":
                 if last_val >= 250:
                     show_titanium = True
+                    last_val -= 250
                     print("Purchase successful. You can now see how much titanium\
 you can get from each found location.")
                 else:
@@ -358,6 +359,7 @@ you can get from each found location.")
                 exit(0)
             elif command6 == "2":
                 if last_val >= 500:
+                    last_val -= 500
                     show_encounter = True
                     print("Purchase successful. You will now see how likely \
 you will encounter an enemy at each found location.")
@@ -370,6 +372,7 @@ you will encounter an enemy at each found location.")
             elif command6 == "3":
                 if last_val >= 1000:
                     print("Purchase successful. You now have an additional robot")
+                    last_val -= 1000
                     robot_lives += 1
                 else:
                     print("Purchase unsuccessful. You can try again when you have enough titanium.\n")
@@ -377,6 +380,7 @@ you will encounter an enemy at each found location.")
                     command6 = input().lower()
                 robo_gameLogic()
                 exit(0)
+        robo_gameLogic()
 
 
 gameLogic()
