@@ -6,7 +6,7 @@ The solution contains code for the last stage and the test file (all coding prob
 
 ---
 # PYTHON
-🐍 Total: 104, 👷🏼‍♂️ In process: 92, 🐱‍👤 Done: 12
+🐍 Total: 104, 👷🏼‍♂️ In process: 90, 🐱‍👤 Done: 14
 
 Note that these projects are from Python paths and some of them may not be Python projects per se (e.g., Gitman).
 
@@ -22,7 +22,7 @@ Note that these projects are from Python paths and some of them may not be Pytho
 9) 🐱‍👤 [Last Pencil (Python)](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/Last-Pencil) - https://hyperskill.org/projects/258
 10) 👷🏼‍♂️ Gitman - https://hyperskill.org/projects/296
 11) 🐱‍👤 [My First Project](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/My-First-Project-with-Python) - https://hyperskill.org/projects/343
-12) 👷🏼‍♂️ File Manager - https://hyperskill.org/projects/378
+12) 🐱‍👤 [File Manager](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/File%20Manager) - https://hyperskill.org/projects/378
 
 ### MEDIUM
 13) 🐱‍👤 [Simple Tic-Tac-Toe (Python)](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/Simple-Tic-Tac-Toe) - https://hyperskill.org/projects/73
@@ -32,7 +32,7 @@ Note that these projects are from Python paths and some of them may not be Pytho
 17) 👷🏼‍♂️ Text Based Adventure Game - https://hyperskill.org/projects/161
 18) 👷🏼‍♂️ Markdown Editor - https://hyperskill.org/projects/162
 19) 🐱‍👤 [Arithmetic Exam Application](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/Arithmetic-Exam-Application) - https://hyperskill.org/projects/173
-20) 👷🏼‍♂️ Honest Calculator - https://hyperskill.org/projects/208
+20) 🐱‍👤 [Honest Calculator](https://github.com/guykogan1995/Hyperskill-Python/tree/main/Python/Honest%20Calculator) - https://hyperskill.org/projects/208
 21) 👷🏼‍♂️ K-Means Clustering from Scratch - https://hyperskill.org/projects/286
 22) 👷🏼‍♂️ Learning Progress Tracker (Python) - https://hyperskill.org/projects/326
 23) 👷🏼‍♂️ Run Docker Run - https://hyperskill.org/projects/346
